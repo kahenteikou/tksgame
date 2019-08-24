@@ -1,2 +1,2 @@
-[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/10-13.jpg"  ]
 [return]
