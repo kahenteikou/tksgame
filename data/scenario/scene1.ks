@@ -3,6 +3,7 @@
 [cm  ]
 [bg  storage="10-13.jpg"  time="1000"  ]
 [tb_show_message_window  ]
+[chara_show  name="クルルァ"  time="1000"  wait="true"  ]
 [tb_start_text mode=1 ]
 #ｸﾙﾙｧ先輩
 ｵｯｽｵｯｽ！ワシｸﾙﾙｧ[p]
